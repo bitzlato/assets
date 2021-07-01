@@ -4,10 +4,12 @@
 
 require 'rubygems'
 require 'bundler'
-Bundler.setup(:deploy)
+Bundler.setup
 
 # Load DSL and Setup Up Stages
 require 'capistrano/setup'
+
+require 'capistrano/shell'
 
 # Includes default deployment tasks
 require 'capistrano/deploy'
