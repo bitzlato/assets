@@ -1,4 +1,4 @@
-# bitzlato static assets used in web
+# bitzlato brand images and other assets
 
 ![logo](https://raw.githubusercontent.com/bitzlato/assets/master/public/bitzlato_logo_blue.svg)
 
