@@ -4,4 +4,13 @@
 
 Look into ./public directory for sources
 
-All assets published here - https://market.bitzlato.bz/assets/
+All assets published here - https://market.bitzlato.com/assets/
+
+
+# Деплой
+
+
+```
+bundle
+bundle exec cap production depoy
+```
