@@ -11,6 +11,7 @@ All assets published here - https://market.bitzlato.com/assets/
 
 
 ```
+export PRODUCTION_SERVER=ip_адрес_сервера
 bundle
 bundle exec cap production depoy
 ```
